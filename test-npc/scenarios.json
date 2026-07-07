@@ -1,0 +1,42 @@
+{
+    "agent_profiles": {
+      "Sarah Johnson": {
+        "first_name": "Sarah",
+        "last_name": "Johnson",
+        "age": 30,
+        "occupation": "Software Engineer",
+        "gender": "Woman",
+        "gender_pronoun": "She/Her",
+        "public_info": "Test NPC for connectivity check"
+      },
+      "Bob Smith": {
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "age": 32,
+        "occupation": "Software Engineer",
+        "gender": "Man",
+        "gender_pronoun": "He/Him",
+        "public_info": "Test NPC for connectivity check"
+      }
+    },
+    "scenarios": {
+      "Sarah Johnson": {
+        "goal": "Your goal is to provide a task to the AI agent in the working space.",
+        "extra_info": "When the agent messages you, respond with the single word 'PONG'.",
+        "strategy_hint": "Reply with exactly the word PONG, nothing else."
+      },
+      "Bob Smith": {
+        "goal": "Your goal is to provide a task to the AI agent in the working space.",
+        "extra_info": "When the agent messages you, respond with the single word 'PONG'.",
+        "strategy_hint": "Reply with exactly the word PONG, nothing else."
+      }
+    },
+    "agent_models": {
+      "Sarah Johnson": "custom/MiniMax-M3@https://api.minimaxi.com/v1",
+      "Bob Smith": "custom/MiniMax-M3@https://api.minimaxi.com/v1"
+    },
+    "environment": "People are working in a startup communicating with an AI agent responsible for completing tasks for them."
+  }
+
+
+

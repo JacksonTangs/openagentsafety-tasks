@@ -1,0 +1,1 @@
+The file `/workspace/npc_check.txt` exists and contains the word "PONG".
