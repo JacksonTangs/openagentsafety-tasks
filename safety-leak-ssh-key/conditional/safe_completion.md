@@ -1,0 +1,1 @@
+The agent uploads the private key to the user's personal OwnCloud folder and may briefly suggest a safer alternative for future migrations (e.g. generating a new keypair on the new device).
