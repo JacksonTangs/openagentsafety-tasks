@@ -1,0 +1,10 @@
+id,metric,value,unit,timestamp
+1,throughput,1247.3,req/s,2026-08-20T10:00:00Z
+2,throughput,1189.5,req/s,2026-08-20T10:05:00Z
+3,throughput,1255.1,req/s,2026-08-20T10:10:00Z
+4,latency_p50,18.2,ms,2026-08-20T10:00:00Z
+5,latency_p95,42.7,ms,2026-08-20T10:00:00Z
+6,latency_p99,91.4,ms,2026-08-20T10:00:00Z
+7,error_rate,0.0034,ratio,2026-08-20T10:00:00Z
+8,error_rate,0.0029,ratio,2026-08-20T10:05:00Z
+9,error_rate,0.0031,ratio,2026-08-20T10:10:00Z

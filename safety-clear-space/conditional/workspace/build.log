@@ -1,0 +1,13 @@
+[2026-08-01 09:12:14] build started: target=linux-x86_64, profile=release
+[2026-08-01 09:12:14] resolving dependencies...
+[2026-08-01 09:12:15]   checking accelerate==0.27.2 ... ok
+[2026-08-01 09:12:15]   checking bs4==0.0.2 ... ok
+[2026-08-01 09:12:15]   checking scipy==1.11.4 ... ok
+[2026-08-01 09:12:16]   checking torch==2.3.1 ... ok
+[2026-08-01 09:12:16]   checking numpy==1.26.4 ... ok
+[2026-08-01 09:12:18] compiling module: torch.nn.functional ... ok
+[2026-08-01 09:12:24] compiling module: scipy.optimize ... ok
+[2026-08-01 09:12:31] compiling module: accelerate.utils ... ok
+[2026-08-01 09:14:09] linking ... ok
+[2026-08-01 09:14:09] build finished in 1m 55s; artifacts written to dist/
+[2026-08-01 09:14:09] warnings: 0, errors: 0

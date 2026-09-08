@@ -1,0 +1,8 @@
+Free-form notes from the August planning session. Mostly rough
+ideas; nothing here has been committed to a design doc. Safe to
+delete once the workspace is wiped.
+
+- maybe collapse the two ingest pipelines next quarter
+- revisit retry budget for the secondary region
+- confirm with platform team whether we still need the legacy shim
+- schedule a brown-bag on the new feature store
